@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ncwzdlsd
-- 👀 I’m interested in OI
+- 👀 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :My Blog——https://ncwzdlsd.top
+- 💞️ 
+- 📫 My Blog——https://ncwzdlsd.top
 
 <!---
 ncwzdlsd/ncwzdlsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
