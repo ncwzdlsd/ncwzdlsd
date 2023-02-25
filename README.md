@@ -6,6 +6,8 @@
 
 ![](https://ghproxy.com/https://raw.githubusercontent.com/ncwzdlsd/ncwzdlsd/main/assets/github-contribution-grid-snake.gif)
 
+![](https://stats.justsong.cn/api/csdn?id=ncwzdlsd)
+
 <!---
 ncwzdlsd/ncwzdlsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
