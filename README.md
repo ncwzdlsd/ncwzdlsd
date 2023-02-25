@@ -6,6 +6,8 @@
 
 ![](https://ghproxy.com/https://raw.githubusercontent.com/ncwzdlsd/ncwzdlsd/main/assets/github-contribution-grid-snake.gif)
 
+![](https://metrics.lecoq.io/ncwzdlsd?template=classic&config.timezone=Asia%2FShanghai)
+
 ![](https://stats.justsong.cn/api/csdn?id=ncwzdlsd)
 
 <!---
