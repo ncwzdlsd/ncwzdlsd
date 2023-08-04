@@ -4,12 +4,6 @@
 - 📫 My Blog——https://ncwzdlsd.top
 - 我的 `MBTI` 是 `ENFJ-T`，可以说和我本人的性格非常契合了 QwQ
 
-![](https://ghproxy.com/https://raw.githubusercontent.com/ncwzdlsd/ncwzdlsd/main/assets/github-contribution-grid-snake.gif)
-
-![](https://metrics.lecoq.io/ncwzdlsd?template=classic&config.timezone=Asia%2FShanghai)
-
-![](https://stats.justsong.cn/api/csdn?id=ncwzdlsd)
-
 <!---
 ncwzdlsd/ncwzdlsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
