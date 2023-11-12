@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ncwzdlsd，也可以叫我“拧错位置的螺丝钉”，就是缩写啦！
-- 🌱 我正在学习 `C++`，主要钻研算法、数据结构等毒瘤知识
-- 💞️ 我是一名萌新 `OIer`，来自 `DL24`，欢迎各位 `OIer` 和我交朋友！
-- 📫 My Blog——https://ncwzdlsd.top
-- 我的 `MBTI` 是 `ENFJ-T`，可以说和我本人的性格非常契合了 QwQ
+- 👋 Hi, I’m @ncwzdlsd！
+- 🌱 我掌握了各种算法、数据结构、图论等知识！
+- 💞️ 我是一名萌新 `OIer`，来自 `DL24`，欢迎各位和我交朋友！
+- 📫 My Blog——https://blog.ncwzdlsd.top
+- My `MBTI` is `ENFJ-T`
 
 <!---
 ncwzdlsd/ncwzdlsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
